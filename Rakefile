@@ -2,8 +2,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "devise-spec"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Spec your devise User files}
+    gem.description = %Q{RSpec matchers to help spec your devise User files}
     gem.email = "kmandrup@gmail.com"
     gem.homepage = "http://github.com/kristianmandrup/devise-spec"
     gem.authors = ["Kristian Mandrup"]
