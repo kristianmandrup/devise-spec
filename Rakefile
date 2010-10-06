@@ -7,7 +7,7 @@ begin
     gem.email = "kmandrup@gmail.com"
     gem.homepage = "http://github.com/kristianmandrup/devise-spec"
     gem.authors = ["Kristian Mandrup"]
-    gem.add_dependency "rspec",             "~> 2.0.0.beta.22"
+    gem.add_dependency "rspec",             ">= 2.0.0.rc"
     gem.add_dependency "require_all",       "~> 1.2.0"
     gem.add_dependency "rails-app-spec",    "~> 0.2.14"
     gem.add_dependency "rails3_artifactor", "~> 0.2.5"
